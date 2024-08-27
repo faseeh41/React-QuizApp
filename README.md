@@ -9,13 +9,13 @@ This is a web app developed as a intership task2 project given form VerveBridge 
   <img alt="Demo" src="./Extra/src6.PNG" />
   </div>
 
-#Features
+# Features
 
 -Users can participate in quizzes on various topics.
 -The app displays quiz questions, allows users to select answers, and provides immediate feedback.
 -The app dynamically fetches quiz questions and displays results based on the user's answers.
 
-#Technologies & Tools Used
+# Technologies & Tools Used
 
 -React.js
 -HTML
@@ -23,7 +23,7 @@ This is a web app developed as a intership task2 project given form VerveBridge 
 -JavaScript
 -VS Code
 
-#Installation and Usage
+# Installation and Usage
 
 To use this app, you can follow these steps:
 
@@ -35,15 +35,15 @@ To use this app, you can follow these steps:
 
 To use the app, simply start a quiz, answer the questions, and view your results at the end.
 
-#Demo
+# Demo
 
 A live demo of the React Quiz App is available at LINK TO LIVE DEMO.
 
-#Credits
+# Credits
 
 The Quiz App was created by M. Faseeh Hassan as an internship task for VerveBridge during a React workshop.
 
-###Show your support
+### Show your support
 
 Give a ⭐ if you like this website!
 
